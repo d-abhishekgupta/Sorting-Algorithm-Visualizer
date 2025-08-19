@@ -2,7 +2,12 @@
 
 This is a lightweight and interactive **Sorting Algorithm Visualizer** built using **HTML, CSS, and JavaScript**. It helps users understand how various sorting algorithms work through animated visualizations.
 
-👉 **[Live Demo](https://tinyurl.com/sorting-alogorithm)**
+
+👉 **[Live Demo]**
+
+
+https://github.com/user-attachments/assets/eaa853ef-3ac5-400a-bf84-5e4987bc154b
+
 
 ---
 <img width="1886" height="917" alt="screenshot-1754641920124" src="https://github.com/user-attachments/assets/f92067b0-03e8-46d0-a5dd-68aa70e4f52a" />
